@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+#full{
+    background-color: lightslategray;
+    margin-top: 2%;
+    
+}
+
+.singh{
+    display: inline-block;
+    text-align: center;
+    font-size: x-large;
+    margin: 3% 5% 3% 4% ;
+
+    
+}
+.singh:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 10px 12px brown;
+}
+.singh>a{
+    text-decoration: none;
+    color: black;
+}
